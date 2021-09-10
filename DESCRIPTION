@@ -5,7 +5,7 @@ Authors@R:
     person(given = "Alev",
            family = "Yildiz",
            role = c("aut", "cre"),
-           email = alevyildiz808@gmail.com
+           email = "alevyildiz808@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: montyhall game function
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
